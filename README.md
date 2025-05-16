@@ -13,3 +13,7 @@ Note: I named the GitHub repo RadsenBlazorExample because I made a mistake in sp
 ## Dependencies
 
 I add Radzen.Blazor to the project.
+
+## Giving up on this project
+
+Today (5/16/2025) I decided to give up on this project. Go to this project's Wiki to learn more.
