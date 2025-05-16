@@ -8,7 +8,7 @@ Note: I named the GitHub repo RadsenBlazorExample because I made a mistake in sp
 
 ## .NET version used
 
-.NET 8, which as of this writing is the latest LTS version.
+.NET 9
 
 ## Dependencies
 
